@@ -20,7 +20,7 @@ Highlights include:
 
 **Resources & links to continue learning from:**
 
-**[Free self-paced courses](https://matlabacademy.mathworks.com/?page=1&sort=featured)**
+**[Free self-paced courses:](https://matlabacademy.mathworks.com/?page=1&sort=featured)**
   1. [MATLAB](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
   2. [Building MATLAB Proficiency](https://matlabacademy.mathworks.com/details/build-matlab-proficiency/lpmlbmp) (started during the workshop, highly recommend completing!)
   3. [Signal Processing](https://matlabacademy.mathworks.com/details/core-signal-processing-techniques-in-matlab/lpmlcspt)
@@ -30,7 +30,7 @@ Highlights include:
   7. [Deep Learning](https://matlabacademy.mathworks.com/details/deep-learning-with-matlab/mldl)
      
 
-**[Readily available curriculum modules](https://www.mathworks.com/academia/courseware.html?s_tid=acmain_ed-pop-cw_gw_bod)**
+**[Readily available curriculum modules:](https://www.mathworks.com/academia/courseware.html?s_tid=acmain_ed-pop-cw_gw_bod)**
   1. [Fourier Analysis](https://www.mathworks.com/matlabcentral/fileexchange/106725-fourier-analysis)
   2. [Numerical Analysis](https://www.mathworks.com/matlabcentral/fileexchange/111490-numerical-methods-with-applications)
   3. [Linear Algebra](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra)
@@ -42,7 +42,7 @@ Highlights include:
   
 
 
-**[Videos](https://www.mathworks.com/videos.html)**
+**[Videos:](https://www.mathworks.com/videos.html)**
   
   1. [Getting Started](https://www.mathworks.com/videos/getting-started-with-matlab-68985.html?s_tid=srchtitle_videos_main_1_getting%20started%20matlab)
   2. [Introduction to MATLAB](https://www.mathworks.com/videos/introduction-to-matlab-1621968498775.html?s_tid=vid_pers_recs)
