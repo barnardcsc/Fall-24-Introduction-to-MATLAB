@@ -15,6 +15,7 @@ Highlights include:
   1. introduction-to-matlab.pdf: &ensp; Slide deck containing the workshop agenda and external resources.
 
 **Resources & links to continue learning from:**
+
 [Free self-paced courses](https://matlabacademy.mathworks.com/?page=1&sort=featured)
   1. [MATLAB](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
   2. [Building MATLAB Proficiency](https://matlabacademy.mathworks.com/details/build-matlab-proficiency/lpmlbmp) (started during the workshop, highly recommend completing!)
@@ -26,6 +27,7 @@ Highlights include:
 
 [Readily available curriculum modules](https://www.mathworks.com/academia/courseware.html?s_tid=acmain_ed-pop-cw_gw_bod) 
 
+
 Examples:
   1. [Fourier Analysis](https://www.mathworks.com/matlabcentral/fileexchange/106725-fourier-analysis)
   2. [Numerical Analysis](https://www.mathworks.com/matlabcentral/fileexchange/111490-numerical-methods-with-applications)
@@ -33,8 +35,10 @@ Examples:
   4. [Teaching Tools with MATLAB Course](https://www.mathworks.com/learn/teaching-with-matlab.html)
 
   Complete MATLAB [Code Examples](https://www.mathworks.com/help/matlab/examples.html) on various topics (to help get started with projects)
+  
 
   [Videos](https://www.mathworks.com/videos.html)
+  
   1. [Getting Started](https://www.mathworks.com/videos/getting-started-with-matlab-68985.html?s_tid=srchtitle_videos_main_1_getting%20started%20matlab)
   2. [Introduction to MATLAB](https://www.mathworks.com/videos/introduction-to-matlab-1621968498775.html?s_tid=vid_pers_recs)
   3. [Data Analysis with MATLAB](https://www.mathworks.com/videos/low-code-data-analysis-with-matlab-1676562237481.html?s_tid=vid_pers_recs)
