@@ -16,6 +16,8 @@ Highlights include:
 **This repository contains the following materials:**
   1. introduction-to-matlab.pdf: &ensp; Slide deck containing the workshop agenda and external resources.
 
+&nbsp;
+
 **Resources & links to continue learning from:**
 
 **[Free self-paced courses](https://matlabacademy.mathworks.com/?page=1&sort=featured)**
@@ -27,6 +29,8 @@ Highlights include:
   6. [Machine Learning](https://matlabacademy.mathworks.com/details/machine-learning-with-matlab/mlml)
   7. [Deep Learning](https://matlabacademy.mathworks.com/details/deep-learning-with-matlab/mldl)
 
+&nbsp;
+
 **[Readily available curriculum modules](https://www.mathworks.com/academia/courseware.html?s_tid=acmain_ed-pop-cw_gw_bod)**
 
 
@@ -36,8 +40,11 @@ Examples:
   3. [Linear Algebra](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra)
   4. [Teaching Tools with MATLAB Course](https://www.mathworks.com/learn/teaching-with-matlab.html)
 
+&nbsp;
+
   **Complete MATLAB [Code Examples](https://www.mathworks.com/help/matlab/examples.html) on various topics (to help get started with projects)**
   
+&nbsp;
 
 **[Videos](https://www.mathworks.com/videos.html)**
   
