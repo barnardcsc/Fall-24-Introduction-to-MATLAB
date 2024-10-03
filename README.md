@@ -25,6 +25,7 @@ Highlights include:
   7. [Deep Learning](https://matlabacademy.mathworks.com/details/deep-learning-with-matlab/mldl)
 
 [Readily available curriculum modules](https://www.mathworks.com/academia/courseware.html?s_tid=acmain_ed-pop-cw_gw_bod) 
+
 Examples:
   1. [Fourier Analysis](https://www.mathworks.com/matlabcentral/fileexchange/106725-fourier-analysis)
   2. [Numerical Analysis](https://www.mathworks.com/matlabcentral/fileexchange/111490-numerical-methods-with-applications)
