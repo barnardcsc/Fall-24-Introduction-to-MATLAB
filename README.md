@@ -28,8 +28,7 @@ Highlights include:
   5. [Mathematics](https://matlabacademy.mathworks.com/?page=1&fq=mathematics-and-optimization&sort=featured) (Statistics, Linear Algebra, Optimization, ODEs)
   6. [Machine Learning](https://matlabacademy.mathworks.com/details/machine-learning-with-matlab/mlml)
   7. [Deep Learning](https://matlabacademy.mathworks.com/details/deep-learning-with-matlab/mldl)
-
-&nbsp;
+     
 
 **[Readily available curriculum modules](https://www.mathworks.com/academia/courseware.html?s_tid=acmain_ed-pop-cw_gw_bod)**
 
@@ -40,11 +39,11 @@ Examples:
   3. [Linear Algebra](https://www.mathworks.com/matlabcentral/fileexchange/94730-matrix-methods-of-linear-algebra)
   4. [Teaching Tools with MATLAB Course](https://www.mathworks.com/learn/teaching-with-matlab.html)
 
-&nbsp;
+
 
   **Complete MATLAB [Code Examples](https://www.mathworks.com/help/matlab/examples.html) on various topics (to help get started with projects)**
   
-&nbsp;
+
 
 **[Videos](https://www.mathworks.com/videos.html)**
   
