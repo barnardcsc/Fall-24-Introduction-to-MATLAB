@@ -11,6 +11,8 @@ Highlights include:
   3. Automating and capturing your work in easy-to-write scripts and programs
   4. Building and deploying interactive applications
 
+&nbsp;
+
 **This repository contains the following materials:**
   1. introduction-to-matlab.pdf: &ensp; Slide deck containing the workshop agenda and external resources.
 
