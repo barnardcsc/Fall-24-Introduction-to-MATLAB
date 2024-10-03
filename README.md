@@ -25,7 +25,7 @@ Highlights include:
   6. [Machine Learning](https://matlabacademy.mathworks.com/details/machine-learning-with-matlab/mlml)
   7. [Deep Learning](https://matlabacademy.mathworks.com/details/deep-learning-with-matlab/mldl)
 
-**[Readily available curriculum modules](https://www.mathworks.com/academia/courseware.html?s_tid=acmain_ed-pop-cw_gw_bod) **
+**[Readily available curriculum modules](https://www.mathworks.com/academia/courseware.html?s_tid=acmain_ed-pop-cw_gw_bod)**
 
 
 Examples:
@@ -37,7 +37,7 @@ Examples:
   **Complete MATLAB [Code Examples](https://www.mathworks.com/help/matlab/examples.html) on various topics (to help get started with projects)**
   
 
-**  [Videos](https://www.mathworks.com/videos.html)**
+**[Videos](https://www.mathworks.com/videos.html)**
   
   1. [Getting Started](https://www.mathworks.com/videos/getting-started-with-matlab-68985.html?s_tid=srchtitle_videos_main_1_getting%20started%20matlab)
   2. [Introduction to MATLAB](https://www.mathworks.com/videos/introduction-to-matlab-1621968498775.html?s_tid=vid_pers_recs)
